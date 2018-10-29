@@ -33,8 +33,5 @@ Groups are defined in the first lines of the killer.py file, just add them prope
 All the few messages are in Italian language.
 
 
-==Localization==
-All the few messages are in Italian language.
-
 ==License==
 This software is licensed under the '''GNU/GPL'' license, see [http://www.gnu.org/copyleft/gpl.html here] for details.
